@@ -1,8 +1,8 @@
 puts "Enter option"
-a= gets.chomp
-b= a.to_i
+var = gets.chomp
+var.to_i!
 
-fruit= case b 
+fruit = case var 
   when 1  "Apple"
   when 2  "Orange"
   when 3  "Banana"
