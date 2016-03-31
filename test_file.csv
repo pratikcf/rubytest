@@ -1,2 +1,6 @@
-Sno,fname,mname,lname,age,dob
-1,Neli, adf,adfadf,23,19362
+Sno,FirstName,MName,LastName,Age,DateofBirth
+1,Neli, adf,gurung,23,1991-05-24
+2,Pratik, adf,GH,23,1993-04-13
+3,Bibek, adf,KD,23,1992-03-23
+4,Puja, adf,JHa,23,1989-05-09
+5,Batsal, adf,AWL,23,1994-09-23
